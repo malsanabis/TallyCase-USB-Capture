@@ -22,10 +22,17 @@ The goal is to provide a **modular, durable, and maker-friendly case** that comb
 
 ### ⚠️ Cons
 - Current design may not handle additional weight (ESP32/ESP8266 board, cooling fan).  
-- Long-term durability concerns due to stress on the base.  
+- Long-term durability concerns due to stress on the base.
 - Susceptible to damage from rough handling (pushing/pulling, accidental hits).  
 
 ### 🔧 Requirements (Must-Haves for Modification)
 - Reinforce the base to support extra hardware weight.  
 - Add structural support for a cooling fan mount.  
 - Ensure stability when used with a capture card + additional electronics.  
+
+
+## Credits
+Base design: [USB Capture Card Housing w/ Cold Shoe](https://www.printables.com/model/972748-usb-capture-card-housing-w-cold-shoe)  
+Original creator: [esnh](https://www.printables.com/@esnh)
+
+License: As specified by the original model (✖ | Sharing without attribution is prohibited)
