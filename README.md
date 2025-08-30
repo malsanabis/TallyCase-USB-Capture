@@ -30,6 +30,12 @@ The goal is to provide a **modular, durable, and maker-friendly case** that comb
 - Add structural support for a cooling fan mount.  
 - Ensure stability when used with a capture card + additional electronics.  
 
+### Print Settings:
+- Material: PLA
+- Layer Height: 0.2mm
+- Wall Line Count: 4
+- Infill: 30%
+- Support: Yes if printing w/ cold shoe
 
 ## Credits
 Base design: [USB Capture Card Housing w/ Cold Shoe](https://www.printables.com/model/972748-usb-capture-card-housing-w-cold-shoe)  
